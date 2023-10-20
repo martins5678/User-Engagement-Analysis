@@ -1,12 +1,12 @@
 
 # WhatsApp Group Dynamics
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankrid.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankoleridwan.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
 
 
 ## Introduction
-![Banner](https://github.com/Bankrid/WhatsApp-Group-Dynamics/blob/main/img/whatsapp.jpg)
+![Banner](https://github.com/bankoleridwan/WhatsApp-Group-Dynamics/blob/main/img/whatsapp.jpg)
 
 Effective communication and a deep understanding of group dynamics are essential for success in today's digital landscape. This project delves into a WhatsApp group chat, where I harnessed data-driven insights to unveil valuable insights such as top contributors, prevalent words, and activity patterns. These discoveries were masterfully visualized in a Power BI dashboard, providing stakeholders with a holistic view of the group's dynamics.
 
@@ -41,10 +41,10 @@ I began by using Pandas to read a TXT file. Using Python, I wrote a validator fu
 As depicted below, the dashboard offers two distinct views: the project description and the dashboard view. The project description provides insights into the problem statement, whereas the dashboard presents essential Key Performance Indicators (KPIs). Users can utilize the "Apply Filter" button to enable granular data exploration.
 
 
-![Overview](https://raw.githubusercontent.com/Bankrid/WhatsApp-Group-Dynamics/main/img/whatsapp%20overview.jpg)
+![Overview](https://raw.githubusercontent.com/bankoleridwan/WhatsApp-Group-Dynamics/main/img/whatsapp%20overview.jpg)
 
-![Dashboard](https://raw.githubusercontent.com/Bankrid/WhatsApp-Group-Dynamics/main/img/whatsapp%20dashboard.jpg)
+![Dashboard](https://raw.githubusercontent.com/bankoleridwan/WhatsApp-Group-Dynamics/main/img/whatsapp%20dashboard.jpg)
 
-![Dashboard Filter](https://raw.githubusercontent.com/Bankrid/WhatsApp-Group-Dynamics/main/img/whatsapp%20dashboard%20filter.jpg)
+![Dashboard Filter](https://raw.githubusercontent.com/bankoleridwan/WhatsApp-Group-Dynamics/main/img/whatsapp%20dashboard%20filter.jpg)
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankrid.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
