@@ -41,10 +41,9 @@ The project began with extracting the WhatsApp chat history in its original TXT 
 The dashboard shows different chats that pleasantly communicate with the decision-makers, as depicted below. It has various options to filter down the information for a granular view and a clearer insight into the group dynamics. 
 
 
-![Overview](https://raw.githubusercontent.com/bankoleridwan/WhatsApp-Group-Dynamics/main/img/whatsapp%20overview.jpg)
-
 ![Dashboard](https://raw.githubusercontent.com/bankoleridwan/WhatsApp-Group-Dynamics/main/img/whatsapp%20dashboard.jpg)
 
-![Dashboard Filter](https://raw.githubusercontent.com/bankoleridwan/WhatsApp-Group-Dynamics/main/img/whatsapp%20dashboard%20filter.jpg)
+
+
 
 Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
