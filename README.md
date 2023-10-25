@@ -5,7 +5,7 @@
 
 
 ## Introduction
-![Banner](https://github.com/bankoleridwan/WhatsApp-Group-Dynamics/blob/main/img/whatsapp.jpg)
+![Banner](https://raw.githubusercontent.com/bankoleridwan/WhatsApp-Group-Dynamics/main/img/whatsapp.jpg)
 
 Information is vital, and having access to the right information at the right time makes a difference in organizations that excel. Thus, effective communication and a deep understanding of how people are engaged on a communication platform are essential for success in today's digital landscape. This project seeks to unearth data-driven insight into how people are engaged in a WhatsApp group - a sole platform on which organization x has weekly meetings on Wednesdays and Saturdays. As a data analyst tasked with this, I harnessed data-driven insights to unveil valuable insights such as top contributors based on word volumes and chat volumes, most prevalent words, chat patterns, etc. These insights were communicated using appealing visuals through a user-friendly Power BI dashboard, providing stakeholders with a holistic view of the group's dynamics.
 
