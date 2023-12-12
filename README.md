@@ -1,9 +1,9 @@
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bankoleridwan.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ridwanbankole.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bankoleridwan/)
 
 
 ## Introduction / Problem Statement
-![Banner](https://raw.githubusercontent.com/bankoleridwan/User-Engagement-Analysis/main/img/whatsapp.jpg)
+![Banner](https://raw.githubusercontent.com/ridwanbankole/User-Engagement-Analysis/main/img/whatsapp.jpg)
 
 The Scholar Hub, a group of young European researchers, relies on WhatsApp as its principal communication channel for disseminating invitations and reminders regarding bi-weekly meetings held every Wednesday and Saturday at 8:00 pm. Due to a recent decrease in session attendance, Scholar Hub management is seeking the development of an interactive dashboard capable of offering swift insights into user engagement and providing recommendations to bolster weekly session attendance.
 
@@ -36,7 +36,7 @@ Here is a concise high-level review of the critical tasks to achieve the project
 The dashboard shows different chats that pleasantly communicate with the decision-makers, as depicted below. It has various options to filter down the information for a granular view and a clearer insight into the group dynamics. 
 
 
-![Dashboard](https://raw.githubusercontent.com/bankoleridwan/User-Engagement-Analysis/main/img/whatsapp%20dashboard.jpg)
+![Dashboard](https://raw.githubusercontent.com/ridwanbankole/User-Engagement-Analysis/main/img/whatsapp%20dashboard.jpg)
 
 
 ## Insights
@@ -61,4 +61,4 @@ Based on the findings, here are some recommendations to improve user engagement:
 * Given the consistent decrease in chat volume since July, investigate the reasons behind the decline and take proactive measures, such as introducing new features, addressing user concerns, or refreshing the platform.
 * Establish a constructive feedback mechanism to understand user preferences and areas for improvement.
 
-Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://bankoleridwan.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
+Ready to unlock the full potential of your data? I'm excited to collaborate and help your business thrive through data-driven insights. [Get in touch!](https://ridwanbankole.github.io/#contact:~:text=My%20Resume-,Contact%20Me,-Ready%20to%20unlock)
